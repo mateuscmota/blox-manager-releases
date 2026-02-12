@@ -1,5 +1,5 @@
 {
-    "version": "2.1.12",
-    "download_url": "https://github.com/mateuscmota/blox-manager-releases/releases/download/v2.1.12/2.1.12.zip",
-    "changelog": "Versao 2.1.12 - Game join e captcha PoW via browser fetch (bypassa rate limit)"
+    "version": "2.1.13",
+    "download_url": "https://github.com/mateuscmota/blox-manager-releases/releases/download/v2.1.13/2.1.13.zip",
+    "changelog": "Versao 2.1.13 - Proxy support (checkbox + Lightning format), captcha mobile (app-type ios), remove auto-captcha"
 }
